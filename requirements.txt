@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+fast_alpr
+pillow
+onnxruntime
+python-multipart
+numpy
